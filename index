@@ -1,0 +1,205 @@
+---
+title: "Ensayo: Factoraje Financiero"
+author: "¬Mario Nathaniel de la Vega Ramirez ¬Franscisco Alvarez Aguilera     
+ ¬×Miguel Angel Ruiz Mendez×"
+date: "2023-09-25"
+output: html_document
+---
+<style type="text/css">
+  body{
+       font-family: Times New Roman;
+       font-size: 12pt;
+      }
+    </style>
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## **Índice:**
+
+[**1.Introducción** ](#Ref1)
+
+[**2¿Qué es el Factoraje financiero?**](#Ref2)
+
+
+[**3.Clasificación**](#Ref3)
+
+[**4.Desventajas**](#Ref4)
+
+[**5.Factoraje en México**](#Ref5)
+
+[**6.Proceso**](#Ref6)
+
+[**7.Interés presente en el factoraje**](#Ref7)
+
+[**8.Conclusión** ](#Ref8)
+
+[**9.Bibliografía**](#Ref9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="Ref1"></a>**Introducción**
+
+
+El presente ensayo se refiere al tema del factoraje financiero, éste lo podemos definir de manera prematura como una herramienta o apoyo de financiamiento a la cual cualquier empresa comercial, industrial, de servicios o persona física con actividad empresarial puede acceder, esto al “vender” los derechos de sus cuentas por cobrar (pagarés, letras de cambio, contra recibos, etc.) a una empresa de factoraje.
+
+El factoraje o también conocido por su término anglosajón “factoring”, encuentra su origen, aunque no se sabe con precisión,  en Babilonia hacia el año 600 a.C. y en Roma, hacia el 240 a.C.lugares en los cuales se realizaban operaciones similares a este tipo de financiamiento actual.
+
+El antecedente histórico más diligente que se tiene del factoraje hace referencia a Inglaterra y a su colonia en América. En ese entonces los factores se encargaban de distribuir mercancías y cobrarlas. Tiempo después, la colonia se había convertido en tan buen negocio que el factor enviaba por adelantado ciertas cantidades al país de origen para que este mantuviera en operación sus plantas y siguiera enviando mercancía. En esa época se empieza a definir la función de factor como aquella persona que se encargaba de financiar a las empresas por medio de la venta de sus carteras.
+
+En sí, el factoring surge como una variante de financiamiento con el objetivo de hacerle frente a los problemas recurrentes de las empresas como lo es la falta de liquidez, insuficiencia en la producción, etc. Más adelante profundizaremos en su definición y clasificación, así como lo compararemos con otras alternativas de financiamiento populares.
+
+
+## <a name="Ref2"></a>**¿Qué es el Factoraje financiero?**
+
+
+El factoraje, también llamado “factoring”, según Manuel Vidaurri es un producto financiero del mismo tipo que consiste en vender derechos de crédito, de cuentas por cobrar en un periodo menor a un año a una entidad denominada empresa de factoraje, aplicando un descuento sobre el valor de vencimiento.
+
+Es principalmente llamativo porque se da un pago anticipado significativo llamado Aforo que suele oscilar entre 70 y 95 por ciento de la cantidad total menos el descuento simple.Una vez llegada la fecha de vencimiento se hace entrega la diferencia.(Vidaurri,2020).
+
+Como resultado tenemos entonces que el factoraje financiero es una herramienta de financiamiento en la cual y con el cual una empresa comercializadora puede vender sus derechos de cobro que tiene sobre terceros a instituciones financieras (entidades encargadas de prestar servicios financieros, dinero, a empresas susceptibles a cumplir con las obligaciones que se le presenten); la venta de estos derechos de cobro le permite recibir dinero líquido de manera anticipada, en lugar de esperar a que sus clientes paguen las facturas en su totalidad en un plazo posterior lo que ayuda a mantener el flujo de las operaciones,es decir que impulsa a la empresa crecer, mediante sus propios recursos, mejorando la rotación de activos, y evitar que las obligaciones a corto plazo absorban a la empresa. Es bastante cómodo porque no requiere depósitos o inversiones por concepto de reciprocidad. ni tampoco inmoviliza activos, aunque dependiendo el tipo puede involucrar otro tipo de obligaciones, pero no asociadas a generar más pasivo.
+
+Usualmente se utiliza la expresión “ Vender a crédito y cobrar a contado ” en algunos videos de asesoría financiera o de carácter académico como mnemotecnia para recordar y sintetizar en una expresión al mecanismo en cuestión. En algunos ciertos expertos o entes en sí como asesores financieros o financieras se expone  que este tipo de aparatos son populares en empresas con clientes internacionales.
+
+Puede actuar como un equilibrante en los flujos, cuando ciertos fenómenos que pueden generar desbalances se presentan, tal como egresos extraordinarios o de ocasión, ventas estacionales, o en su defecto brindar la oportunidad de aprovechar oportunidades con proveedores que no serían tan cómodas sin cierto capital o flujo de efectivo.
+
+A nivel operativo, muchas tareas asociadas a la cobranza del documento quedan delegadas y las minimiza costos y evita pérdida de tiempo. Debido a la estrecha relación que existe con los principales compradores, surge la posibilidad de recomendar nuevos mercados.
+
+## <a name="Ref3"></a>**Clasificación:**
+
+
+Existe una clasificación principal, más común y coherente de fuente en fuente, tanto en libros de texto como en exposiciones de asesoría financiera. 
+
+
+- ***Con recurso***: En la cual la empresa que cede sigue siendo responsable de que se complete el pago en caso de que el cliente no cumpla con su obligación una vez vencido el documento en tiempo y forma estipulado. Este tipo de cláusula es celebrado en la mayoría de los casos ya que involucra un menor riesgo a la empresa de Factoraje y probablemente no esté en el mayor de sus intereses porque no ofrece una utilidad significativa.
+
+- ***Sin recurso***: También llamado factoraje puro, es cuando la empresa que cede los documentos desconoce la obligación de pagarlos dado su vencimiento.Como es claro, en contraste con las condiciones del Factoraje con recurso, este tipo de alternativa es admitida por la empresa factora si es de bajo riesgo, es decir, que la empresa deudora tenga un buen historial y reputación como los sería una empresa triple A, como lo sería Amazon, Cemex, Apple, Space X, X, Meta, Telcel, AT&T entre muchas otras,  y finalmente, genera gran utilidad a la empresa que presta el servicio.
+
+Existen también ciertas submodalidades, aunque no se mencionan con gran frecuencia, existen ciertas inconsistencias entre cada fuente, en general, suelen involucrar factorajes a los que les faltó alguna característica primordial del mismo, y no se suele ahondar mucho en la materia, por lo que solo se hará mención de ellas.
+
+Consideramos para determinar estas submodalidades, que es importante tener en cuenta las características y necesidades de cada empresas para que de acuerdo a estas puedan solicitar el que sea más acorde a ellas. Existen 2, y son factoraje con financiamiento y otro denominado con servicios. En gran parte, se habla de que mientras más servicios asociados cargados hacia tu lado puden reducir el financiamiento, ya que representan una ventaja.
+
+- Existe factoraje asociado al tipo de figura con el que se negocia, en este caso, si es un proveedor o un cedente.
+
+- La Opción de proveedores consiste en adquirir de los proveedores de grandes cadenas    comerciales, los títulos de crédito que emiten éstas. Los adquiere el factor sin recurso y paga anticipadamente el importe total de los documentos menos un diferencial por la compra.
+
+Las fórmulas anteriores implican para el  factor un conocimiento amplio de los deudores de las cuentas por cobrar y del riesgo que cada una de ella implica; no obstante, el factor declina el pago a su cliente cuando el deudor se rehúsa a pagar por causas imputables al cliente, es decir, cuando la mercancía entregada carezca de la calidad pactada, existan atrasos en la entrega, la cantidad o los modelos sean diferentes a los contratados, etc.
+
+- Respecto al tipo de cobranza son directa o delegada.
+
+- Respecto a la ubicación de las figuras comerciales, asociada a si es de carácter nacimiento o internacional. O si se trata de importación o exportación. 
+
+El factoraje de este tipo tiene inmersos algunos servicios como garantía de pago de cuentas en el esxtranjero. A su vez, se suele trabajar en divisas comunes en el ámbito internacional como el dólar americano.Una de sus principales desventajas de comerciar en el extranjero es que puede ser más difícil evaluar la solvencia de un cliente, y está sujeta al marco fiscal y mercantil particular de la nación.Sin embargo es una opción popular porque agiliza mucho la liquidez de las cuentas por pagar, que aun siendo a corto plazo, suelen ser de periodos más grandes que los domésticos por la cantidad de trabajo asociada al acto..
+
+La forma de operar en el factoraje sin recurso, determina las siguientes submodalidades:
+
+- Factoraje con pago al vencimiento:En esta operación el factor hace el pago de la cuenta por cobrar a un plazo previamente acordado, generalmente el mismo que conjuntamente asignaron el factor y el cliente usuario del factoraje al deudor. Es decir que el pago se efectúa independientemente si se hace o no el cobro de la cuenta por cobrar.
+
+- Factoraje con pago anticipado Esta operación implica para el factor la obligación de anticipar una parte del pago y liquidar la diferencia en la fecha de vencimiento de la cuenta por cobrar. 
+
+Sin embargo, en esta submodalidad el factor inicia la operación como si se tratase de factoraje con recurso y a medida que va conociendo al deudor de la cuenta va asumiendo el riesgo de impago.
+
+Es práctica común en México que los factores notifiquen al deudor que las cuentas por cobrar a su cargo deberán ser pagadas al factor, en virtud de ser éste el legítimo propietario.
+
+
+
+## <a name="Ref4"></a>**Desventajas**
+
+No es todo miel sobre hojuelas, ya que el tipo de interés aplicado es mayor que el del descuento comercial convencional. También puede no aceptar algunos documentos de su cliente o pedir para la operación la opción con recurso (Es decir generar la obligación de la liquidación del pago ante la morosidad del deudor).Se excluyen las operaciones relativas a productos perecederos y las de largo plazo. Y siempre se depende del visto bueno de la organización factores para evaluar los riesgos de trabajar con la empresa cedente en base a los clientes, en un espacio de varias alternativas de ofertas por empresas, ya sean Pyme o grandes empresas.
+
+## <a name="Ref5"></a>**Factoraje en México**
+
+El factoraje en los Estados Unidos Mexicanos se remonta a principios de la década de los 60' y su desarrollo reciente está íntimamente vinculado a las reformas del sistema financiero realizadas a partir de 1985. En 1988, nace la Asociación Mexicana de Empresas de Factoraje (AMEFAC), con el fin de  promover su producto y ayudar a sus integrantes a estudiar el mercado en el que se desenvuelven. Desde su fundación, la Asociación Mexicana de Empresas de Factoraje ha obtenido resonados logros para sus miembros. El éxito se refleja directamente en los servicios que se ofrecen en el mercado.
+
+La AMEFAC actualmente está integrada por más de 50 empresas, al menos hasta 1999., entre ellas se señalan las siguientes: TECNICA PROFESIONAL DE INVERSIONES; ARKA FACTORING; BASE DE MEXI; BURSAFAC; ClTlBANK; PROFACTORING MEXICANA; 
+
+Algunas empresas actuales serían: CATERPILLAR FACTORAJE FINANCIERO, S.A. DE CV. , ORGANIZACIÓN AUXILIAR DEL CRÉDITO, GRUPO FINANCIERO CATERPILLAR, MÉXICO, S.A. DE CV.CRÉDITO REAL, S.A. DE CV. ,ORGANIZACIÓN AUXILIAR DEL CRÉDITO, EMPRESA DE FACTORAJE FINANCIEROFACTORAJE SERFIN, S.A. DE CV. ,Organización Auxiliar del Crédito,Grupo Financiero Serfin.
+
+En la actualidad encontrar una empresa de factoraje es tan sencillo como poner en un navegador dicha palabra  y te ofrecerá un amplio catálogo de opciones, e incluso puedes desde este momento iniciar el proceso para ser objeto de evaluación, introduciendo los datos más básicos de manera remota, incluso desde la comodidad del hogar.
+
+
+## <a name="Ref6"></a>**Proceso**
+
+
+1\.- Se solicita a un ente de factoraje sus servicios. Este evalúa al cedente y al deudor para determinar la tasa y el tipo de factoraje que te ofrecerá. Además estudiará al cliente y presentará informes. A veces se menciona una comisión por suscripción cuando se trata de la primera vez denominada comisión de apertura..
+
+Los requisitos pueden variar de empresa en empresa, según la CONDUSEF, algunos requisitos legales comunes son: Acta constitutiva del acreditado. Escritura donde se otorgan poderes de dominio, administración y suscripción de títulos de crédito. Dictamen legal de la empresa, realizado por corredor público. Conocimiento de firma bancaria de los apoderados. Identificaciones oficiales vigentes con foto y firma de los apoderados generales. Verificación favorable de la acreditada (sociedad) en el Registro Público de la Propiedad y del Comercio. Comprobante de domicilio. 
+
+Y dependiendo la magnitud, suele haber requisitos contables, que, obviamente están relacionados a la cantidad de dinero que están dispuestos a aceptar al cedente y al tipo de cedente , ya sea persona física o moral, y de ser el primero solamente dice “no aplica” , de lo contrario se solicita: Proporcionar información financiera auditada y de carácter interno de los últimos dos o tres ejercicios, la capacidad de pago y generación de flujo positivo, estructura financiera sana, referencias bancarias favorables (buró de crédito)
+
+2\.-Se le ofrece un tipo de factoraje, ya sea con o sin recurso, con un aforo del 70 al 95 por ciento menos un descuento(intereses y comisiones).
+
+3-.Una vez dada la fecha de vencimiento, se le da la diferencia porcentual que se te debía. De ser factoraje con recurso y un deudor moroso, se imperara al cedente que pague.
+
+
+## <a name="Ref7"></a>**Interés presente en el factoraje**
+
+
+Como tal, los intereses que están presentes en un Factoraje son de este tipo:
+
+- Un interés, con tasa a tratar u ofrecida por servicio ente de factoraje una vez evaluado el cliente y el cedente.Como los periodos suelen ser de 30 a 180 días, se suele utilizar tasa mensual para las exposiciones, y convención de anual para todo lo demás. Algunos ejemplos son: Tasa libros más un diferencial de entre 300 a 350 puntos porcentuales básicos o tasa fija en dólares (CATERPILLAR FACTORAJE FINANCIERO), Tasa Variable de TIIE + (5 a 8)(FACTORAJE BANORTE, S.A. DE CV.) o ninguna (FACTORING SANTANDER MEXICANO, S.A. DE CV). También existen ciertos intereses moratorios , que suelen ser la tasa más algunos puntos porcentuales, o bien un factor, como el doble de la tasa tratada.
+
+Estos se resta al aforo ofrecido, menos comisiones si las hay.
+
+## <a name="Ref8"></a>**Conclusión**
+
+
+Al desarrollar el presente ensayo se analizó y estudió el factoraje financiero, llegando a la conclusión de que es un gran alternativa de financiamiento (no excluyente sino complementaria), además, referente al factoraje pudimos ver que su  objetivo primordial es el apoyo al capital de trabajo, así como los beneficios financieros, económicos, administrativos y estratégicos que ofrece, sus modalidades de acuerdo a la necesidad que tenga el cedente, así como el tipo de factoraje al que mejor se adapte este. 
+
+Esta herramienta financiera permite la utilización de sus propias cuentas por cobrar, permitiendo tener mayor liquidez sin recurrir a un pasivo adicional como lo puede ser el crédito bancario. Este recurso también le permite a la empresa no preocuparse por el cobro de las cuentas por cobrar que tenga con sus clientes, ya que la empresa de factoraje de su elección será la encargada de ejecutar esa operación cuando llegue el vencimiento de estas y con la cual recibirá el porcentaje de aforo o comisión que se fijó, esto dependiendo de las condiciones y los requisitos que le sean solicitados de acuerdo al tipo de factoraje que desee emplear.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="Ref9"></a>**Bibliografía**
+
+
+Vallejo, J., Torres, K., Cueva, N., Peláez, L., & Ochoa, J. (2017). FACTORAJE FINANCIERO PARA LAS PYMES. *Sur Academia: Revista Académica-Investigativa De La Facultad Jurídica, Social Y Administrativa*, *3*(6). Recuperado a partir de https://revistas.unl.edu.ec/index.php/suracademia/article/view/264
+
+Chávez Alor, P. A. (2017). El Factoraje Financiero. *El Búho Gaceta Electrónica De La Facultad De Derecho UNAM*, *64*(2). Recuperado a partir de <https://revistas.unam.mx/index.php/derecho/article/view/58749>
+
+Vidaurri.H.M(2020) *Matemáticas Financieras, Sexta edición*. México  Ed.Cengage Learning  
+
+Calvo, O. & Flores, A. (2003). Factoraje financiero. En Derecho Mercantil (pp. 359-364). México. Banca y Comercio.
+
+BBVA. *¿Qué es el factoraje financiero?* BBVA México. <https://www.bbva.mx/educacion-financiera/f/factoraje_financiero.html>
+
+Asale, R.-. (s. f.). *Proceso | Diccionario de la Lengua Española*. «Diccionario de la lengua española» - Edición del Tricentenario. <https://dle.rae.es/proceso> 
+
+Editorial Grudemi (2018). *Cuentas por cobrar. Recuperado de Enciclopedia Económica* (https://enciclopediaeconomica.com/cuentas-por-cobrar/). Última actualización: agosto 2022.
+
+- Horngren, Charles T. (2006) Accounting. (Quinta edición). *Pearson educación*.
+- León Ledesma, Javier y Label Wayne (2014) *Contabilidad para no contables*. *(Primera edición).* Ediciones Pirámide.
+- Pedregal Tercero, Diego José (2011) *Microeconomía. (Primera edición).* Lulu.com
+
+BBVA MEXICO & BBVA. (2023, 1 agosto*). ¿Qué es una institución financiera?* BBVA MEXICO. <https://www.bbva.mx/educacion-financiera/blog/que-es-una-institucion-financiera.html> 
+
+Enciso H. J, González G. M. E, Tapia H. V. M(1999), *"FACTORAJE", UNA ALTERNATIVA DE CRÉDITO. IZTAPALAPA MÉXICO.* Tesina de licenciatura de la Universidad Autónoma Metropolitana Iztapalapa. 
+
+Texto sugerido en Virraudi.H.M
+
+rincondelvago.com. (2017, 2 febrero). *Encuentra aquí información de factoraje financiero para tu escuela ¡Entra ya! | Rincón del Vago*. http://html.rincondelvago.com/factoraje-financiero.html
